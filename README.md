@@ -6,5 +6,6 @@
 
 - https://hyundai-sangho.github.io/ToDoList_2_js/
 
-- 스크린샷 ![default](screenshot.png)
+- 스크린샷 
+- ![default](screenshot.png)
 
